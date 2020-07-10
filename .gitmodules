@@ -1,0 +1,6 @@
+[submodule "stepladder_fe"]
+	path = stepladder_fe
+	url = git@github.com:jwy5140/stepladder_fe.git
+[submodule "stepladder_be"]
+	path = stepladder_be
+	url = git@github.com:jwy5140/stepladder_be.git
